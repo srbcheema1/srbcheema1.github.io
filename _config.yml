@@ -1,17 +1,18 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: srbcheema1
+description: A blog by an overthinker
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Srb Cheema
+user_description: A curious guy who is in love with problems. I am student of Computer Science, enthusiastic about learning new algorithms and technologies related to computer science. Those who know me say me a lazy programmer as I am quite lazy at repeating the stuff, you I am habitual of writing down script to automate almost everthing that I feel like boring in repeating everytime. I am a compitive programmer as well as an Open Source lover.
+
+user_title: Programmer | Developer | Overthinker
+email: srbcheema1@gmail.com
+twitter_username: srbcheema1
+github_username:  srbcheema1
+gplus_username:  srbcheema1
 
 # Google-analytics
 google-analytics:
